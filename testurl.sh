@@ -9,5 +9,5 @@ while true; do
     echo "$1;1;$datestr" >> log.txt
     echo "$1;1;$datestr"
   fi
-  sleep 2s
+  sleep 2s //test url in 2 second
 done
